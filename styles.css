@@ -1,1 +1,10 @@
 /* your code */
+<style>
+		thead{
+			background-color:rgb(33,90,142);
+			color:white;
+		}
+		table{
+			border-radius:10px;
+		}
+	</style>
